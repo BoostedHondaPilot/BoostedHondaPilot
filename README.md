@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java & .NET
 - 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me ...
+
 
 <!---
 BoostedHondaPilot/BoostedHondaPilot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
